@@ -16,7 +16,7 @@ function Recipe() {
   return (
     <div className="container flow">
       <h1>{recipe.title}</h1>
-      <img src={recipe.image} alt="Recipe" />
+      <img src={recipe.image} alt={recipe.title} />
       <h2>{recipe.descriptionTitle}</h2>
       {recipe.descriptionParagraphs.map((descriptionPara, index) => (
         <p key={index}>{descriptionPara}</p>
