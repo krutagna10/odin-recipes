@@ -3,9 +3,9 @@ import "./Home.css";
 
 function Home() {
   return (
-    <div>
+    <div className="container">
       <h1>Odin Recipes</h1>
-      <ul>
+      <ul className="recipes__links">
         <li>
           <Link to="/lasagna">Lasagna</Link>
         </li>

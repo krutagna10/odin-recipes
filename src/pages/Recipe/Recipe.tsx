@@ -14,7 +14,7 @@ function Recipe() {
   }
 
   return (
-    <div className="flow">
+    <div className="container flow">
       <h1>{recipe.title}</h1>
       <img src={recipe.image} alt="Recipe" />
       <h2>{recipe.descriptionTitle}</h2>
