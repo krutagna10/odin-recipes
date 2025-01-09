@@ -67,3 +67,8 @@ h6 {
 #__next {
   isolation: isolate;
 }
+
+/* Utility Classes */
+.flow > * + * {
+  margin-top: 1rem;
+}
