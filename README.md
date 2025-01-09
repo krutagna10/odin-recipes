@@ -2,7 +2,7 @@
 
 ### Links
 
-- Live Site URL: [https://todo-list-app-10.netlify.app/]
+- Live Site URL: [https://odin-recipes-10.vercel.app/]
 
 ### Built with
 
