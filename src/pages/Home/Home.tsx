@@ -3,7 +3,7 @@ import "./Home.css";
 
 function Home() {
   return (
-    <div className="container">
+    <div className="home container">
       <h1>Odin Recipes</h1>
       <ul className="recipes__links">
         <li>
